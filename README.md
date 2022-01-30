@@ -1,34 +1,27 @@
 ### Hi there 👋
 
 <!--
-**RaphaelAndrews/RaphaelAndrews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
 <div align="center">
   <a href="https://github.com/RaphaelAndrews">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelandrews&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelandrews&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelandrews&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelandrews&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Andrews-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Andrews-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Andrews-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Andrews-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andrews-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Andrews-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Andrews-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Andrews-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="center" alt="Andrews-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Andrews-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" alt="Andrews-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="right" alt="Andrews-pic" height="150" style="border-radius:50px;" src="blob:https://discord.com/3a5da200-d140-48f6-9105-6abefe8b20f6">
 </div>
 
 ##
