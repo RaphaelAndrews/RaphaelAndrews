@@ -12,8 +12,8 @@
 
 <div align="center">
   <a href="https://github.com/RaphaelAndrews">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelandrews&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelandrews&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=raphaelandrews&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelandrews&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Andrews-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,7 +21,7 @@
   <img align="center" alt="Andrews-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Andrews-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Andrews-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="Andrews-pic" height="150" style="border-radius:50px;" src="blob:https://discord.com/3a5da200-d140-48f6-9105-6abefe8b20f6">
+  <img align="right" alt="Andrews-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/29440301/151704158-1cbdeed2-071a-4a51-97e0-d01bcda7c469.jpeg">
 </div>
 
 ##
