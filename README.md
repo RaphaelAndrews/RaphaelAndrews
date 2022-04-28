@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning React
 - 🗡️ Skills: `.html`, `.css`, `.js`, `.bs` `.react`, `.psd`, `.ai`, `.figma`
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/raphael-andrews/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/raphael-andrews/), [WhatsApp](https://wa.me/5579988666446?text=Ol%C3%A1%21) or [Gmail](https://wa.me/5579988666446?text=Ol%C3%A1%21)
 - 🔮 Things I Like: Development, design and Jinjer
-- ⚡ Fun fact: I'm a good offlaner in Dota
+- ⚡ Fun fact: I like to play as a offlaner in Dota
 
 <div align="center" style>
   <a href="https://github.com/RaphaelAndrews">
